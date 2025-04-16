@@ -1,8 +1,8 @@
-# Humanin_RiboSeq (Manuscript under review)
+# Manuscript under review
 
 This repository is associated with the manuscript:
 
-**"Humanin alleviates ribosome pausing and restores translational fidelity under nutrient stress"**  
+**"Translation rescue by a mitochondria-derived hormone during nutrient stress"**  
 Submitted to *Science*, April 2025.
 
 ## 🔐 Data & Code Access
