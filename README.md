@@ -2,8 +2,8 @@
 
 This repository is associated with the manuscript:
 
-**"Translation rescue by a mitochondria-derived hormone during nutrient stress"**  
-Submitted to *Science*, April 2025.
+**"Mitochondrial hormone linking metabolic stress with growth signaling"**  
+Submitted to *Nature*, September 2025.
 
 ## 🔐 Data & Code Access
 
