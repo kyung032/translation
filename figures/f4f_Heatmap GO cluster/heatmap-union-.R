@@ -1,12 +1,4 @@
-setwd("/Users/kyungkim/Documents/riboseq_2025/riboseq_analysis/TE")
 
-#📌 주요 과정
-#1️⃣하나라도 포함되는  deg 유전자 추출 (G2vGsor1 G3vsG2 DEG):2980
-#2️⃣ Translational Efficiency (TE) 계산 (Ribo-seq / RNA-seq 정규화 값 활용)
-#3️⃣ Gaussian Mixture Model (GMM) 클러스터: 최적클러스터 계산 15개 도출
-#4️⃣ GO term enrichment 분석 (Cluster별 유의한 GO term 저장):p-value
-#5️⃣ 히트맵 생성 (Z-score 변환 후 시각화, 논문 스타일)
-#6️⃣ 최종 결과 파일 저장 (원본 GO terms, 요약 GO terms, 히트맵 TIFF 파일)
 
 ###############################################
 # 1. 필요한 패키지 로드
