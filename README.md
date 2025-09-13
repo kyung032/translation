@@ -1,4 +1,4 @@
-# Manuscript under review
+# Submitted Manuscript #
 
 This repository is associated with the manuscript:
 
