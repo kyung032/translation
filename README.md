@@ -3,7 +3,7 @@
 This repository is associated with the manuscript:
 
 **"Mitochondrial hormone linking metabolic stress with growth signaling"**  
-Submitted to *Nature*, September 2025.
+Submitted to *Cell*, September 2025.
 
 ## 🔐 Data & Code Access
 
