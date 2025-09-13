@@ -2,7 +2,7 @@
 
 This repository is associated with the manuscript:
 
-**"Mitochondrial hormone linking metabolic stress with growth signaling"**  
+**"Mitochondrial hormone restores growth signaling under nutrient stress"**  
 Submitted to *Cell*, September 2025.
 
 ## 🔐 Data & Code Access
